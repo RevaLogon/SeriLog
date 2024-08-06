@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3IqyNieIw7WFgoJPtMfYSlIL0Pl+RFbBeRHwiQZ5WSo=",
+  "Source": "logger",
+  "BasePath": "_content/logger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
